@@ -44,19 +44,6 @@ A página reúne:
 
 ---
 
-## Estrutura do Projeto
-
-```bash
-SENTRYX-Hub/
-│
-├── index.html
-├── assets/
-├── css/
-└── README.md
-```
-
----
-
 ## Equipe
 
 | Integrante | Função |
